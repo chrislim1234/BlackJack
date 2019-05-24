@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Face
+comment1.params=faceValue
+comment1.target=Face(int)
+comment2.params=
+comment2.target=int\ getFaceValue()
+numComments=3
